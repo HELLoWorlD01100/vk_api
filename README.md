@@ -7,4 +7,5 @@
 Выводит все публичные альбомы, созданные пользователем.
 
 Пример работы:
+
 ![alt text](https://github.com/HELLoWorlD01100/vk_api/blob/main/result_example4.png)
